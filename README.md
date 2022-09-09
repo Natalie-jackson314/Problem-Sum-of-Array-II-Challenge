@@ -1,5 +1,5 @@
 # Problem-Sum-of-Array-II-Challenge
-create the class SumOfArrayII
-Get user input for array size 
-Let the user enter in their own values 
-print out the sum of the array
+1. Create the class SumOfArrayII
+2. Get user input for array size 
+3. Let the user enter in their own values 
+4. Print out the sum of the array
